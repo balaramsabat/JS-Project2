@@ -1,5 +1,5 @@
 # Weather App
-**by Balaram Sabat**😃
+**by Balaram Sabat**
 
 #### Here, I have designed a Weather App to know the environment condition of different location.
 ---
